@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [linkedin]: https://www.linkedin.com/in/luisferangulo/
-[email]: fernando19122@gmail.com
+[email]: mailto:fernando19122@gmail.com
