@@ -24,8 +24,8 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
          <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
          width="40" height="40">
          </a>
-    <a href="https://www.google.com.mx" target="_blank" rel="noopener noreferrer">
-         <img alt="Portfolio (This is a dummy test)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"
+    <a href="https://cb-mdk.github.io/" target="_blank" rel="noopener noreferrer">
+         <img alt="Portfolio (Work in progress)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"
          width="40" height="40">
              </a>
 </p>
