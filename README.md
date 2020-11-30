@@ -1,7 +1,7 @@
 I'm Fernando. I'm a C# engineering intern looking for a challenge.
 
 Contact me:  
-[Linkedin] (https://www.flaticon.es/svg/static/icons/svg/174/174857.svg)  [email] [youtube]
+![Linkedin](https://www.flaticon.es/svg/static/icons/svg/174/174857.svg)  [email] [youtube]
 
 <!--
 **CB-Mdk/CB-Mdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
