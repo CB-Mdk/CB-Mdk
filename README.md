@@ -1,6 +1,6 @@
 I'm Fernando. I'm a C# engineering intern looking for a challenge.
 
-Contact me:
+Contact me:  
 [Linkedin] [email] [youtube]
 
 <!--
