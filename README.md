@@ -40,7 +40,7 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
 **Languages and Tools:** 
 <p align="center">
             <img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-4.png " width="40" height="40" alt="Windows 10">
-            <img src="https://img2.freepng.es/20180506/rwe/kisspng-fedora-project-linux-distribution-installation-5aef7b97703057.5603413715256441834595.jpg " width="40" height="40" alt="Fedora">
+            <img src="https://mpng.subpng.com/20180506/rwe/kisspng-fedora-project-linux-distribution-installation-5aef7b97703057.5603413715256441834595.jpg" width="40" height="40" alt="Fedora">
    <img src="https://img.icons8.com/color/1600/visual-studio.png" width="40" height="40" alt="Visual Studio Community">
   <img src="http://ubuntuhandbook.org/wp-content/uploads/2016/05/codeblocks-ide-icon.png" width="40" height="40"  alt="CodeBlocks">
      <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png" width="40" height="40" alt="RStudio">
