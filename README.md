@@ -14,7 +14,7 @@ I'm Fernando. I'm a C# engineering intern looking for a challenge.
 **Languages and Tools:** 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_graphql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nim.svg" width="32" height="32">
