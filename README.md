@@ -1,11 +1,15 @@
-I'm Fernando. I'm a C# engineering intern looking for a challenge.
+I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luisferangulo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]
+
 
 
 [Linkedin] [email] [youtube] [portfolio]
 
 
 
-- 🔭 I’m currently working on personal projects.
+- 💻 I’m currently working on personal projects.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on fun projects.
 - 💬 Ask me about anything.
