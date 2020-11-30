@@ -3,20 +3,14 @@ I'm Fernando. I'm a C# engineering intern looking for a challenge.
 
 [Linkedin] [email] [youtube] [portfolio]
 
-<!--
-**CB-Mdk/CB-Mdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning web development.
+- 👯 I’m looking to collaborate on fun projects.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I like Arknigths.
+
 [linkedin]: https://www.linkedin.com/in/luisferangulo/
 [email]: mailto:fernando19122@gmail.com
 [youtube]: https://www.youtube.com/channel/UCp8KYQP9xckSNU4E20-CxDQ
