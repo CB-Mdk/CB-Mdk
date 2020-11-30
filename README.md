@@ -9,7 +9,7 @@ I'm Fernando. I'm a C# engineering intern looking for a challenge.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on fun projects.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I like [Arknights](https://www.arknights.global).
+- ⚡ Fun fact: I like to play [Arknights](https://www.arknights.global) and drink a good coffe.
 
 [linkedin]: https://www.linkedin.com/in/luisferangulo/
 [email]: mailto:fernando19122@gmail.com
