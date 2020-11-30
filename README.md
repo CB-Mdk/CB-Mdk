@@ -1,7 +1,7 @@
 I'm Fernando. I'm a C# engineering intern looking for a challenge.
 
 
-[Linkedin] [email] [youtube] [website]
+[Linkedin] [email] [youtube] [portfolio]
 
 <!--
 **CB-Mdk/CB-Mdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
