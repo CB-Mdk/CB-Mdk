@@ -19,6 +19,8 @@ I'm Fernando. I'm a C# engineering intern looking for a challenge.
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_graphql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nim.svg" width="32" height="32">
 </p>
+
+
 [linkedin]: https://www.linkedin.com/in/luisferangulo/
 [email]: mailto:fernando19122@gmail.com
 [youtube]: https://www.youtube.com/channel/UCp8KYQP9xckSNU4E20-CxDQ
