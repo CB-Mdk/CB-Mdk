@@ -20,8 +20,6 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
          <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
          width="40" height="40">
          </a>
-         
-         
 <a href="mailto:fernando19122@gmail.com">
          <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
          width="40" height="40">
