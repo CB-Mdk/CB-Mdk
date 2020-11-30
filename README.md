@@ -2,7 +2,7 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
 
 
 <p align="center">
-<a href="https://github.com/CB-Mdk" target="_blank">
+<a href="https://github.com/CB-Mdk"  target="_blank" rel="noopener noreferrer">
          <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
          width="40" height="40">
          </a>
