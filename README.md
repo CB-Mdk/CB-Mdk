@@ -44,8 +44,8 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
      <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png" width="40" height="40" alt="RStudio">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="40" height="40"  alt="MySQL">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg" width="40" height="40"  alt="C# / CSharp">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_r.svg" width="40" height="40" alt="R">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp.svg" width="40" height="40" alt="C++ / C Plus Pluz"> 
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp.svg" width="40" height="40" alt="C++ / C Plus Pluz">
+           <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_r.svg" width="40" height="40" alt="R">
 </p>
 
 
