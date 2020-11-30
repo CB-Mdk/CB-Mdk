@@ -5,15 +5,19 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
 <a href="https://github.com/CB-Mdk" target="_blank" rel="noopener noreferrer">
          <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
          width="40" height="40">
+         </a>
 <a href="https://www.linkedin.com/in/luisferangulo/" target="_blank" rel="noopener noreferrer">
          <img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
          width="40" height="40">
+         </a>
 <a href="mailto:fernando19122@gmail.com">
          <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
          width="40" height="40">
+         </a>
     <a href="https://www.google.com.mx" target="_blank" rel="noopener noreferrer">
          <img alt="Portfolio (This is a dummy test)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"
          width="40" height="40">
+             </a>
 </p>
              
 
