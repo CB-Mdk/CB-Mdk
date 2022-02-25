@@ -11,12 +11,8 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
          width="40" height="40">
          </a>
          
-<a href="https://www.facebook.com/luisfernando.anguloflores.1" target="_blank" rel="noopener noreferrer">
-         <img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-         width="40" height="40">
-         </a>
          
-<a href="https://twitter.com/MadokisKirisame" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
          <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
          width="40" height="40">
          </a>
@@ -54,4 +50,4 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
 [linkedin]: https://www.linkedin.com/in/luisferangulo/
 [email]: mailto:fernando19122@gmail.com
 [youtube]: (https://www.youtube.com/channel/UCp8KYQP9xckSNU4E20-CxDQ)
-[portfolio]: https://www.google.com.mx
+[portfolio]: https://cb-mdk.github.io/
