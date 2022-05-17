@@ -6,13 +6,13 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
          <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
          width="40" height="40">
          </a>
-<a href="https://www.linkedin.com/in/luisferangulo/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/cb-mdk/" target="_blank" rel="noopener noreferrer">
          <img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
          width="40" height="40">
          </a>
          
          
-<a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/mdk_cb" target="_blank" rel="noopener noreferrer">
          <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
          width="40" height="40">
          </a>
@@ -47,7 +47,9 @@ I'm Fernando from Mexico. I'm a C# engineering intern looking for a challenge.
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/luisferangulo/
+[linkedin]: https://www.linkedin.com/in/cb-mdk/
+[twitter]: https://github.com/CB-Mdk
 [email]: mailto:fernando19122@gmail.com
 [youtube]: (https://www.youtube.com/channel/UCp8KYQP9xckSNU4E20-CxDQ)
 [portfolio]: https://cb-mdk.github.io/
+
