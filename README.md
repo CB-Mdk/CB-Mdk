@@ -47,9 +47,8 @@ I'm Fernando from Mexico. I'm a .NET computer science engineer.
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/cb-mdk/
+[linkedin]: https://www.linkedin.com/in/cb-mdk
 [twitter]: https://github.com/CB-Mdk
 [email]: mailto:fernando19122@gmail.com
-[youtube]: (https://www.youtube.com/channel/UCp8KYQP9xckSNU4E20-CxDQ)
 [portfolio]: https://cb-mdk.github.io/
 
